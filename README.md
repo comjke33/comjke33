@@ -3,7 +3,7 @@
 
 💬 이름: 장갱    
 💬 나이: 9000살  
-💬 MBTI: ENFJ 80% + INFJ 15% + ENTJ 5%  
+💬 MBTI: ENFJ
 <!--🌱 I'm currently learning on every beautiful thing in computer. --> 
 
 
