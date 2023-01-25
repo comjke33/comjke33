@@ -1,5 +1,12 @@
 ### Hi there!! 👋
-현재 Notion에서 열심히 이사오는 중입니다...🐜🐜
+(현재 Notion에서 열심히 이사오는 중입니다...🐜🐜)
+##🌱 I'm currently learning on every beautiful thing in computer.  
+이름: 장갱
+나이: 9000살
+MBTI: ENFJ 80% + INFJ 15% + ENTJ 5%
+
+
+
 <!--
 **comjke33/comjke33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
