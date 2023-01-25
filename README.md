@@ -1,4 +1,5 @@
 ### Hi there!! 👋
+현재 Notion에서 열심히 이사가는 중입니다...🐜🐜
 <!--
 **comjke33/comjke33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
