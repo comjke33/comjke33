@@ -2,7 +2,7 @@
 (현재 Notion에서 열심히 이사오는 중입니다...🐜🐜)  
 
 💬 이름: 장갱    
-💬 나이: 9000살  
+💬 생년: 03년생  
 💬 MBTI: ENFJ
 <!--🌱 I'm currently learning on every beautiful thing in computer. --> 
 
