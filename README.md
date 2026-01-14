@@ -2,7 +2,8 @@
 
 #### > WHOAMI <
 - Name: Kyungeun Chang  
-- Birth: 2003 
+- Birth: 2003
+- MBTI: ENFJ
 
 #### > STACK <
 <a href="https://www.python.org/" target="_blank">
