@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 <a href="https://github.com/comjke33" target="_blank">
 <img src="https://img.shields.io/badge/Azure-008AD7?style=flat-square&logo=azure&logoColor=white"/></a>
+<a href="https://github.com/comjke33" target="_blank">
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></a>
 
 #### > SOCIAL <
 <a href="https://github.com/comjke33" target="_blank">
