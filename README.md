@@ -1,10 +1,10 @@
 ### Hi there!! 👋
 
-##### > WHOAMI <
+#### > WHOAMI <
 - Name: Kyungeun Chang  
 - Birth: 2003 
 
-##### > STACK <
+#### > STACK <
 <a href="https://www.python.org/" target="_blank">
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="https://github.com/comjke33" target="_blank">
@@ -25,7 +25,7 @@
 <a href="https://github.com/comjke33" target="_blank">
 <img src="https://img.shields.io/badge/Azure-008AD7?style=flat-square&logo=azure&logoColor=white"/></a>
 
-##### > SOCIAL <
+#### > SOCIAL <
 <a href="https://github.com/comjke33" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kyungeun-chang-1540413a6/" target="_blank">
