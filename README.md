@@ -33,3 +33,6 @@
 <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kyungeun-chang-1540413a6/" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.credly.com/users/kyungeun-chang" target="_blank">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=Credly&logoColor=white"/></a>
+
